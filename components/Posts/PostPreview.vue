@@ -8,7 +8,7 @@
         <h1>{{ title }}</h1>
         <p>{{ previewText }}</p>
       </div>
-    </article>
+    </article
   </nuxt-link>
 </template>
 
