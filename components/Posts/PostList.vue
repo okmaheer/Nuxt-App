@@ -15,7 +15,7 @@ import PostPreview from '@/components/Posts/PostPreview'
 
 export default {
   components: {
-    PostPreview
+    PostPrevie
   },
   props: {
     isAdmin: {
